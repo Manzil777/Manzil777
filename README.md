@@ -10,8 +10,8 @@ My Certificates
 
 | Certificate Name           | Issuing Organization | Date Issued   | Credential URL                | 
 |----------------------------|----------------------|---------------|-------------------------------| 
-|C and C++                   |   Broadway Infosys   | January 2023  | [Link](https://www.example.com) |✅ 
-| Python and Data Science    |   Broadway Infosys   | March 2023    | [Link](https://www.example.com) |
+|C and C++                   |   Broadway Infosys   | January 2023  | [Link](https://www.example.com) |
+| Python and Data Science    |   Broadway Infosys   | March 2023    | [Link](https://broadwayinfosys.com/certificate-verification-code/eyJpdiI6InFubXZreWhoWkIxSS9EaURXTUZKcUE9PSIsInZhbHVlIjoiLzZjSlpWaEFFek1tNE1YeWlBNXpBdz09IiwibWFjIjoiNjI0M2Q5ODM0ZGYyMDFkMDRkYTQ1ZDBlMjAwMjgzMTQ3NjU4Njk4OWI0NDM5NDhhYzk0ODJkZGI5Nzc3MDRhMyIsInRhZyI6IiJ9) |
 | Fundamentals of Digital Marketing |      Google Digital Garage       | March 30 2024      | [Link](https://skillshop.exceedlms.com/student/award/LW1GYyVaRH8qpHH13GJuivGP) |✅ 
 
 
