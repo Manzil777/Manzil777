@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manzil Shrestha</h1>
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning mySQL
 
 - 📫 How to reach me **mash23ainds@cmrit.ac.in**
 
