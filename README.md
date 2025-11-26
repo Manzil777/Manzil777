@@ -14,7 +14,7 @@ My Certificates
 | Python and Data Science    |   Broadway Infosys   |  May 21, 2023   | [Link](https://broadwayinfosys.com/certificate-verification-code/eyJpdiI6ImtDUnhQL1BIeU1TYlh1czRqckV2Wnc9PSIsInZhbHVlIjoiaS9ORUN4RkkvUTRpTWY3azBjY3FsUT09IiwibWFjIjoiYjNlMGM4ZDc3YjRhMzA2NmUwYTkxYzgxMDViMjhhMTU3ZWE1MWYwY2UzMWNkZjNjOGI1NDZjMTkzMjg0MDhlMCIsInRhZyI6IiJ9) |
 | Fundamentals of Digital Marketing |      Google Digital Garage       | March 30 2024      | [Link](https://skillshop.exceedlms.com/student/award/LW1GYyVaRH8qpHH13GJuivGP) |✅ 
 | Introduction to Algorithm Design |      NPTEL       | July 26 2025      | [Link](https://skillshop.exceedlms.com/student/award/LW1GYyVaRH8qpHH13GJuivGP) |✅ 
-| Python and Data Science |      NPTEL       | August 20 2025      | [Link](https://drive.google.com/file/d/1Lz-os75iDxWlyWzzl54UjGgWy9lPugy3/view) |✅ 
+| Python for Data Science |      NPTEL       | August 20 2025      | [Link](https://drive.google.com/file/d/1Lz-os75iDxWlyWzzl54UjGgWy9lPugy3/view) |✅ 
 
 
 
