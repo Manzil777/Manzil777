@@ -18,5 +18,7 @@ My Certificates
 | Introduction to Cybersecurity |      Infosys       | October 26 2025      | [Link](https://drive.google.com/file/d/10zyfonLUJP0QIGes3BkoIkIwTRDeqSTD/view?usp=sharing) |✅
 | Full Stack React |      Infosys       | November 01 2025      | [Link](https://drive.google.com/file/d/1aAbaA6K7aPocieFCqHs42-3yE2SYjIOE/view?usp=sharing) |✅ 
 | Agile and Scrum Training |      Infosys       | November 07 2025      | [Link](https://drive.google.com/file/d/162uTtpOHylGlpT7v8YqCBfdkESgrTOE2/view?usp=sharing) |✅
+| Front End Web Developer |      Infosys       | February 17 2026      | [Link](https://drive.google.com/file/d/1k2X_PF6V39wA9M2Kf7IGHrKXt68GigR_/view?usp=sharing) |✅
+
 
 
